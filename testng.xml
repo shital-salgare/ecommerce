@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="ecommerceTest">
+    <classes>
+      <class name="ecommercesite.Ebay"/>
+      <class name="ecommercesite.Flipkart"/>
+      <class name="ecommercesite.Ajio"/>
+      <class name="ecommercesite.Myntra"/>
+      <class name="ecommercesite.firsttestest"/>
+    </classes>
+  </test> <!-- ecommerceTest -->
+</suite> <!-- Suite -->

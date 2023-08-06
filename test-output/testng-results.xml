@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-05T20:35:57 IST" name="Default suite" finished-at="2023-08-05T20:36:31 IST" duration-ms="33258">
+    <groups>
+    </groups>
+    <test started-at="2023-08-05T20:35:57 IST" name="Default test" finished-at="2023-08-05T20:36:31 IST" duration-ms="33258">
+      <class name="ecommercesite.Ajio">
+        <test-method signature="ajio()[pri:0, instance:ecommercesite.Ajio@59309333]" started-at="2023-08-05T20:35:58 IST" name="ajio" finished-at="2023-08-05T20:36:31 IST" duration-ms="33193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ajio -->
+      </class> <!-- ecommercesite.Ajio -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
